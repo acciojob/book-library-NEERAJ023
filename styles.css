@@ -13,6 +13,9 @@ body{
 .book .price{
 	background-color:rgb(46, 204, 113);
 	margin:0px;
+	color:white;
+   
+     text-align:center;
 }
 .img{
 	text-align:center;
@@ -25,6 +28,6 @@ body{
 .title{
 	margin:0px;
 }
-h2{
+h1{
 	text-align:center;
 }
